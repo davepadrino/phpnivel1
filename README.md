@@ -16,6 +16,6 @@ Contiene los archivos del curso php nivel 1 , más la info para hacerlo reproduc
 
 ## Problemas que pueden ocurrir con xampp
 
-1- puerto ya está siendo usado : fácil de resolver , simplemente entra en configuración , service & port settings y modifica los puertos necesarios.
-2- En windows es posible que necesite ejecutar xampp como administrador.
+- puerto ya está siendo usado : fácil de resolver , simplemente entra en configuración , service & port settings y modifica los puertos necesarios.
+- En windows es posible que necesite ejecutar xampp como administrador.
 
